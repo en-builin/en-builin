@@ -6,4 +6,4 @@ My experience in commercial business software developing and modifications is mo
 
 My tech stack: Java, Spring Framework (incl. Spring Boot and Spring Cloud), Kafks, PostgreSQL, Microsoft SQL, base of HTML, CSS, Bootstrap 5. Have experience in backend REST API development and fullstack MVC applications.
 
-Everyday tools: Docket, Git (Github & GitLab), Postman, Swagger
+_My everyday tools:_ Docket, Git (Github & GitLab), Postman, Swagger
