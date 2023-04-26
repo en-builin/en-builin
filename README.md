@@ -1,9 +1,7 @@
-Hi, I’m **Evgeniy Buylin**, russian software developer.
+Hi, I'm Evgenii Builin, a Russian software engineer.
 
-I'm addicted to code since i've been 8 y.o.
+I have been passionate about coding since the age of 8, and my experience in commercial business software development and modification spans more than 20 years. I have expertise in team leading and software development department management. Since 2019, I have been working as a software development contractor, software architect consultant, and lead a group of high-level contractors.
 
-My experience in commercial business software developing and modifications is more than 15 years. A have experience in team leading, software development department managment. Since 2019 I have practice as software development contractor, software architect consultant, leads group of hi-level contractors.
+My primary tech stack includes Java, Spring Framework (including Spring Boot and Spring Cloud), Kafka, PostgreSQL. I have experience in developing backend REST APIs, full-stack MVC applications, and integrations via mesasge brokers.
 
-**My tech stack:** Java, Spring Framework (incl. Spring Boot and Spring Cloud), Kafks, PostgreSQL, Microsoft SQL, base of HTML, CSS, Bootstrap 5. Have experience in backend REST API development and fullstack MVC applications.
-
-**My everyday tools:** Docket, Git (Github & GitLab), Postman, Swagger
+In my daily work, I use a range of tools such as k8s, Docker, Git, Postman, and Swagger.
